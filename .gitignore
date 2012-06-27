@@ -2,7 +2,6 @@
 *.mo
 *.pyc
 *~
-buildout.cfg
 .installed.cfg
 .mr.developer.cfg
 bin/
